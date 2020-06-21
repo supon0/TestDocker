@@ -1,8 +1,8 @@
 # TestDocker
 
-sudo apt update
-sudo apt upgrade
+sudo apt update \n
+sudo apt upgrade \n\n
 
-#ganti nama host
+#ganti nama host\n
 sudo hostnamectl set-hostname pi-manager
 
